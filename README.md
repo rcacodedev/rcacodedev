@@ -29,8 +29,7 @@ Check out my most recent contributions on [My Activity Board](https://github.com
 
 ## Connect With Me
 
-- [LinkedIn](link to your LinkedIn profile)
-- [Twitter](link to your Twitter profile)
+- [LinkedIn]www.linkedin.com/in/racual
 - [Website](link to your website or blog)
 
 Thanks for visiting my profile! 😄
