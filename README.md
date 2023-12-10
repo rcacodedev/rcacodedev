@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Backend Developer. Here you'll find some of 
 ## My Featured Projects
 
 - [Flight Deals Notifier]: Program that, through API's, sends an SMS to the phone notifying of the availability of a flight from a city airport and at a lower price chosen by the user. https://github.com/rcacodedev/Flight-Deals-Notifier
-
+- [Web-Scraping-IMDb-Top-250]: Program that with Beautifulsoap and Selenium does web scraping in imdb and saves the data in csv or json depending on the user. https://github.com/rcacodedev/Web-Scraping-IMDb-Top-250
 
 ## GitHub Statistics
 
