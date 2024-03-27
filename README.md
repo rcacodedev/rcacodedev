@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Cuevas! 👋
 
-Welcome to my GitHub profile! I'm a Backend Developer. Here you'll find some of my projects and contributions.
+Welcome to my GitHub profile! I'm a software development. Here you'll find some of my projects and contributions.
 
 ## About Me
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a Backend Developer. Here you'll find some of 
 
 ## My Featured Projects
 
-- [Flight Deals Notifier]: Program that, through API's, sends an SMS to the phone notifying of the availability of a flight from a city airport and at a lower price chosen by the user. https://github.com/rcacodedev/Flight-Deals-Notifier
+- [Todo-List Project]_ This is my first project with Django. It's a basic todo list project, where I practice the fundamental parts of the Django framework. https://github.com/rcacodedev/TodoList-App
 - [Web-Scraping-IMDb-Top-250]: Program that with Beautifulsoap and Selenium does web scraping in imdb and saves the data in csv or json depending on the user. https://github.com/rcacodedev/Web-Scraping-IMDb-Top-250
 
 ## GitHub Statistics
@@ -29,6 +29,5 @@ Check out my most recent contributions on [My Activity Board](https://github.com
 ## Connect With Me
 
 - www.linkedin.com/in/racual
-- [Website](link to your website or blog)
 
 Thanks for visiting my profile! 😄
