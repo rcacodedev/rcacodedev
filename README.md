@@ -13,8 +13,8 @@
 ---
 
 ## 📌 Proyectos Destacados
-- **[PAB Backend](https://github.com/rcacodedev/PAB-backend)** → API modular (Inventario, Contactos y más).  
-- **[PAB Frontend](https://github.com/rcacodedev/PAB-frontend)** → SPA en React + Vite consumiendo la API.  
+- **[PAB Backend](https://github.com/rcacodedev/pab_backend)** → API modular (Inventario, Contactos y más).  
+- **[PAB Frontend](https://github.com/rcacodedev/pab_frontend)** → SPA en React + Vite consumiendo la API.  
 
 *(Más repositorios en progreso, porque el desarrollo es un camino de mejora continua 🚧)*
 
