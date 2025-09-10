@@ -1,33 +1,35 @@
-# Hello, I'm Rafael Cuevas! 👋
+# 👋 Hola, soy Rafa (rcacodedev)
 
-Welcome to my GitHub profile! I'm a software development. Here you'll find some of my projects and contributions.
+💻 **Full-Stack Web Developer** especializado en **Django + DRF** en el backend y **React (Vite)** en el frontend.  
+🚀 Actualmente estoy construyendo una aplicación modular para gestión empresarial con inventario y contactos, buscando que sea **profesional, escalable y útil para negocios reales**.  
 
-## About Me
+---
 
-- 🌱 Learning [PYTHON, DJANGO, POSTGRESQL, HTML, CSS]
-- 👯 Open to collaborating on PYTHON, DJANGO
-- 💬 Ask me about [PYTHON, DJANGO]
-- 📫 How to reach me: rcacodedv@gmail.com
+## 🛠️ Tech Stack
+- **Backend:** Python, Django, Django REST Framework, PostgreSQL  
+- **Frontend:** JavaScript (ES6+), React, Vite, TailwindCSS  
+- **DevOps / Tools:** Git, GitHub, PowerShell (Windows), Hetzner (deploy), Docker (en camino)  
 
-## My Featured Projects
+---
 
-- [Todo-List Project]_ This is my first project with Django. It's a basic todo list project, where I practice the fundamental parts of the Django framework. https://github.com/rcacodedev/TodoList-App
-- [Web-Scraping-IMDb-Top-250]: Program that with Beautifulsoap and Selenium does web scraping in imdb and saves the data in csv or json depending on the user. https://github.com/rcacodedev/Web-Scraping-IMDb-Top-250
+## 📌 Proyectos Destacados
+- **[PAB Backend](https://github.com/rcacodedev/PAB-backend)** → API modular (Inventario, Contactos y más).  
+- **[PAB Frontend](https://github.com/rcacodedev/PAB-frontend)** → SPA en React + Vite consumiendo la API.  
 
-## GitHub Statistics
+*(Más repositorios en progreso, porque el desarrollo es un camino de mejora continua 🚧)*
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+---
 
-## Most Used Languages
+## 📈 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rcacodedev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcacodedev&layout=compact&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/yourusername)
+---
 
-## Recent Contributions
+## 🤝 Contacto
+- ✉️ [rcacodedv@gmail.com](mailto:rcacodedv@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin) *(añade tu enlace si lo tienes)*  
 
-Check out my most recent contributions on [My Activity Board](https://github.com/yourusername)
+---
 
-## Connect With Me
-
-- www.linkedin.com/in/racual
-
-Thanks for visiting my profile! 😄
+⭐️ *“El código es aprendizaje constante, cada proyecto es una oportunidad de crecer y aportar valor.”*
