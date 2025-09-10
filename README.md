@@ -28,7 +28,6 @@
 
 ## 🤝 Contacto
 - ✉️ [rcacodedv@gmail.com](mailto:rcacodedv@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-linkedin) *(añade tu enlace si lo tienes)*  
 
 ---
 
