@@ -48,7 +48,7 @@ Enfoque:
 ## 📫 Contacto y enlaces
 
 - 🌐 [GitHub – @RafaelCuevasAlcobendas](https://github.com/RafaelCuevasAlcobendas)
-- ✉️ (opcional, puedo incluir tu correo o portfolio si quieres)
+- ✉️ rcacodedv@gmail.com
 - 🧭 Próximos proyectos: Vivienda (predicción de precios) · BabyData (gestión de guarderías)
 
 ---
